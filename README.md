@@ -4,7 +4,7 @@ I'm a **software engineer**, **University of South Florida alum**, and **space e
 
 ## In orbit around
 
-- Building thoughtful web experiences with **TypeScript**, **React**, and **Next.js**
+- Building the future with **Typescript**, **Rust**, **Java**, **C/C++**
 - Launching side projects, experiments, and open-source work
 - Following the future of space exploration — from the **Moon** to **Mars** and beyond 🚀
 
@@ -13,11 +13,6 @@ I'm a **software engineer**, **University of South Florida alum**, and **space e
 - Personal projects and tools
 - Plenty of lines of code
 - The occasional glowstick, space-lizard, or other internet oddity
-
-## Launch pad
-
-- 🌐 Website: [lewismorgan.dev](https://lewismorgan.dev)
-- 💻 GitHub: [@lewismorgan](https://github.com/lewismorgan)
-- 📦 Repositories: [See what I'm building](https://github.com/lewismorgan?tab=repositories)
+- 🌐 [lewismorgan.dev](https://lewismorgan.dev) for the full easter-egg tour
 
 If you're into building for the web, open source, or the future of space, you're in the right part of the digital universe.
