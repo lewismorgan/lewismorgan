@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello_Internet 👋
 
-<!--
-**lewismorgan/lewismorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software engineer**, **University of South Florida alum**, and **space enthusiast** who enjoys building things on the internet. Most of what I launch lives here on GitHub and over at [lewismorgan.dev](https://lewismorgan.dev).
 
-Here are some ideas to get you started:
+## In orbit around
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building the future with **Typescript**, **Rust**, **Java**, **C/C++**
+- Launching side projects, experiments, and open-source work
+- Following the future of space exploration — from the **Moon** to **Mars** and beyond 🚀
+
+## Easter eggs on [lewismorgan.dev](https://lewismorgan.dev)
+
+- Glowsticks
+- Space-lizards
+- Plenty of lines of code
+- A few other digital oddities in orbit
+
+If you're into building for the web, open source, or the future of space, you're in the right part of the digital universe.
