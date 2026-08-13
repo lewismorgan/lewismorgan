@@ -8,11 +8,11 @@ I'm a **software engineer**, **University of South Florida alum**, and **space e
 - Launching side projects, experiments, and open-source work
 - Following the future of space exploration — from the **Moon** to **Mars** and beyond 🚀
 
-## Around here you'll find
+## Easter eggs on [lewismorgan.dev](https://lewismorgan.dev)
 
-- Personal projects and tools
+- Glowsticks
+- Space-lizards
 - Plenty of lines of code
-- The occasional glowstick, space-lizard, or other internet oddity
-- 🌐 [lewismorgan.dev](https://lewismorgan.dev) for the full easter-egg tour
+- A few other digital oddities in orbit
 
 If you're into building for the web, open source, or the future of space, you're in the right part of the digital universe.
