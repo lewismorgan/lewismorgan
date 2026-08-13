@@ -1,7 +1,5 @@
 # Hello_Internet 👋
 
-Welcome to the digital space, domain, and realm of **Lewis Morgan**.
-
 I'm a **software engineer**, **University of South Florida alum**, and **space enthusiast** who enjoys building things on the internet. Most of what I launch lives here on GitHub and over at [lewismorgan.dev](https://lewismorgan.dev).
 
 ## In orbit around
